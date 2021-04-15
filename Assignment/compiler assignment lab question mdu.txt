@@ -1,0 +1,12 @@
+ass1
+Write a program in C here which will read a c program and removes unnecessary whitespaces and comments. Keep a track on exact line numbers.			
+
+
+ass3
+Write a program in C which finds the tokens from a given input C program. Either put the whole program here or put the link.					
+
+
+ass4
+Implement epsilon closure.Input is NFA and derive the transition table. Keep a track of epsilon movements (use some data structures).				
+
+
